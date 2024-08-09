@@ -4480,9 +4480,6 @@ export const extraRpcs = {
       },
     ],
   },
-  88888: {
-    rpcs: ["https://rpc.chiliz.com"],
-  },
   88882: {
     rpcs: ["https://spicy-rpc.chiliz.com"],
   },
@@ -5535,6 +5532,11 @@ export const extraRpcs = {
   79479957: {
     rpcs: [
       "https://rpc.sx-rollup-testnet.t.raas.gelato.cloud"
+    ],
+  },
+  388: {
+    rpcs: [
+      "https://mainnet.zkevm.cronos.org"
     ],
   }
 };
